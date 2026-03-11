@@ -8,7 +8,7 @@ I’m an aspiring IT student passionate about the exciting world of tech. Here�
 - **Cybersecurity**
 - **DevOps**
 - **Python**
-  
+
 ## 🔭 What I'm Working On
 - Building my technical portfolio
 
